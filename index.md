@@ -1,8 +1,6 @@
-## Portfolio
+## Research Projects
 
 ---
-
-### Category Name 1 
 
 [Capillary Phase Transition](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
