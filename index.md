@@ -1,8 +1,8 @@
-## Research Projects
+## [research page](http://example.com/)
 
 ---
 
-[Capillary Phase Transition](/sample_page)
+[proj](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
