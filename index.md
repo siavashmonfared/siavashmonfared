@@ -1,5 +1,5 @@
 ## [Research](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/xsecDen.original.png?raw=true"/>
 
 ## [Publications](/sample_page)
 
