@@ -3,7 +3,7 @@ This paper advances understanding on confined fluid behavior in (dis)ordered gra
 
 These findings have significance for both applied fields, such as pore size characterization and carbon capture, to theoretical fields, including glass physics, wet granular physics and physics of confined fluids.
 
-<img src="images/xsecDen_0729.png?raw=true"/>
+<iframe width="560" height="315" src="/movies/xsec.mov" frameborder="0" allowfullscreen></iframe>
 
 ## [Research](/research_page)
 <!--- [Mechanics & poromechanics of highly heterogeneous solids](http://example.com/)!-->
