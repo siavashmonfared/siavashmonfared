@@ -13,8 +13,14 @@
 
 - S. Monfared, F.-J. Ulm, "A molecular informed poroelastic model for organic-rich, naturally occurring porous geocomposites", Journal of the Mechanics and Physics of Solids, 88, 186, 2016. [[link]](https://www.sciencedirect.com/science/article/pii/S0022509615303355).
 
-### Invited Talks:
+### Selected Conference Talks:
 
-### Conference Talks:
+- [Capillary stresses in disordered unsaturated porous materials](http://meetings.aps.org/Meeting/MAR19/Session/V56.4), Monfared et al., APS March Meeting, March 4-8, 2019; Boston, Massachusetts. 
+
+- [Mesoscale poroelasticity of heterogeneous media](http://meetings.aps.org/Meeting/MAR16/Session/R36.9), Monfared et al., APS March Meeting, March 14-18, 2016; Baltimore, Maryland. 
+
+- [Discrete Poroelasticity of Heterogeneous Media](https://ascelibrary.org/doi/abs/10.1061/9780784480779.169), Monfared et al., 6th Biot Conference on Poromechanics - A tribute to Olivier Coussy, July 9-13, 2017; Paris, France. 
+
+
 
 
