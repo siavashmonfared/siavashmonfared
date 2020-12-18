@@ -8,6 +8,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href = "mailto: monfared@caltech.edu">Contact</a>
   <br>
   <a href="https://scholar.google.com/citations?user=E9GMpVEAAAAJ&hl=en">Google Scholar page</a> 
+  
+  <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
   <span class="iconify" data-icon="logos-github-icon" data-inline="false"></span>
   
 theme: jekyll-theme-minimal
