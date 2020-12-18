@@ -1,32 +1,13 @@
-## This can be your internal website page / project page
+## Latest Archives 
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 12/15/2020 
+This paper advances understanding on confined fluid behavior in (dis)ordered granular aggregates and their inverse porous structures. For the first time, we unravel the link between surface-surface correlations to the degree of confinement while addressing long-standing questions on the first-order nature of liquid-gas phase transition and whether capillary critical temperature represents a true critical temperature. This is done via access to capillary pressure fields and a finite size scaling analysis that maps the studied systems onto the Random Field Ising Model universality class as conjectured by F. Brochard and P.G. de Gennes. We link the underlying random fields to disorder in local fluid-solid interactions.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+These findings have significance for both applied fields, such as pore size characterization and carbon capture, to theoretical fields, including glass physics, wet granular physics and physics of confined fluids.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+# Reference:
+- S. Monfared, T. Zhou, J.E., Andrade, K. Ioannidou, F. Radjai, F.-J. Ulm, R. J.-M. Pellenq, "Effect of confinement on capillary phase transition in granular aggregates", Physical Review Letters, 125, 255501, 2020. [[link]](https://dspace.mit.edu/handle/1721.1/97797)[[pdf]](https://arxiv.org/pdf/2008.04201.pdf).
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="images/xsecDen_0729.png?raw=true"/>
+<img src="images/rpdf_0729.png?raw=true"/>
 
