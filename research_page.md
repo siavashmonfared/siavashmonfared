@@ -11,7 +11,8 @@ The mechanical interactions between a cell and its environment play a dominant r
 
 The behavior of bulk fluid contrast significantly with that of a confined fluid. This is a consequence of pore morphology, topology and the strength of fluid-solid interactions that alter the energy landscape of a fluid. The effect of confinement on fluid behavior is of interest for a range of scientific and engineering applications. In the case of disordered porous materials, the effect of underlying effective random fields induced by structural and/or chemical disorder on degree of confinement, nature of phase transition, and critical exponents are still unclear.
 
-<img src="images/xsecDen.original.png?raw=true"/>
+<img src="images/xsecDen_0729.png?raw=true"/>
+<img src="images/rpdf_0729.png?raw=true"/>
 
 ### Granular physics: Non-convex particle interactions & wet systems
 
@@ -26,4 +27,5 @@ Despite well over 200 years since the pioneering work of Young and Laplace, a un
 ### Mechanics & poromechanics of highly heterogeneous solids
 Poromechanics is dedicated to the modeling and prediction of how porous materials deform in response to various external loadings. These loadings range from fluid–solid interactions by a variety of pressures at the liquid–solid interface to complex physical chemistry phenomena at the pore scale that produce a mechanical deformation (including fracture) of the solid. The classical backbone of poromechanics is based on continuum theories, ever since Maurice A. Biot defined the kinematics of deformation of the skeleton within the classical continuum mechanics framework as the refer- ence for the description of the flow of the liquid phase through the pore space. Although continuum poromechanics theory has entered and transformed many engineering fields ranging from civil and environmental engineering and geophysics applications to biomechanics and the food industry, the intrinsic limitations of the theory relate to the very foundations of the continuum model, including scale separability and its impact on the relevance of the differential operators defining the momentum balance and displacement–strain operators. We propose a discrete re-formulation of the theory that can be applied to porous materials with a highly heterogeneous solid while accounting for anisotropy.
 
+<img src="images/mechanics.png?raw=true"/>
 
