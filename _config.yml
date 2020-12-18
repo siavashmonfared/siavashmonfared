@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://scholar.google.com/citations?user=E9GMpVEAAAAJ&hl=en">Google Scholar page</a> 
   
   <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
-  <a href"https://www.theguardian.com/us"><span class="iconify" data-icon="logos-github-icon" data-inline="false"></span>
+  <a href"https://www.theguardian.com/us"><span class="iconify" data-icon="logos-github-icon" data-inline="false"></span></a>
   <span class="iconify" data-icon="simple-icons:googlescholar" data-inline="false"></span>
   <span class="iconify" data-icon="simple-icons:orcid" data-inline="false" data-width="2em" data-height="2em"></span>
   
