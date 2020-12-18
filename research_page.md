@@ -4,7 +4,7 @@
 
 The mechanical interactions between a cell and its environment play a dominant role in many biological processes including gene expression and morphogenesis. Furthermore, cellular interactions and collective cell migration are not only critical to tissue regeneration but also key to cancer metastasis and tumor invasion. Although recent conceptual, theoretical and computational advances have provided access to mechanical fields, e.g. forces and displacements, in two-dimensions, the three dimensional fields remain inaccessible
 
-<iframe width="560" height="315" src="/images/sixteen_surf_hi.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/movies/channel.mp4" frameborder="0" allowfullscreen></iframe>
 
 
 ### Physics of confined fluids & capillary phase transition
