@@ -20,7 +20,7 @@ Considering the large carbon footprint of cement production as building material
 Despite well over 200 years since the pioneering work of Young and Laplace, a unified theoretical framework to model capillary pressure evolution in disordered porous media has yet to emerge. Part of the challenge for investigating the behavior of wet granular materials lies in the complex texturing of liquid in a disordered porous structure. This includes the formation, growth and coalescence of liquid clusters in granular systems. For the case of unsaturated poromechanics, any rigorous approach requires bringing together a description for solid(s) that can account for heterogeneity and anisotropy as well as a fluid description that honors the effects of confinement, temperature and the strength of fluid-solid interactions while providing access to the capillary pressure field inside the pore domain.
 
 <iframe width="560" height="315" src="/movies/Ng500s.mov" frameborder="0" allowfullscreen></iframe>
-<img src="images/s_part.jpeg?raw=true"/>
+<img src="images/s_part.jpeg" width="560" height="315">
 
 
 ### Mechanics & poromechanics of highly heterogeneous solids
