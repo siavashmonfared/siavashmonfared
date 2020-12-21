@@ -5,7 +5,7 @@
 
 ### Mentor, The Summer Undergraduate Research Fellowships (SURF) , Caltech
 
-I mentored five students during Caltech's flagship undergraduate research program. Together, we explored the physics of entangled non-convex granular particles.
+As a postdoctoral scholar, I have and continue to mentor students participating in Caltech's flagship undergraduate research program, SURF. Here are some examples of the projects that we have explored together: 
 
 - Jade Leong (University of Massachusetts Lowell) - [Mechanical behavior of entangled, non-convex granular particles: experimental analysis of the angle of repose](/pdf/Jade_Leong_SURF_Final_Presentation.pdf).
 - Katheryn Wang (Harvey Mudd College) - [Uniaxial compression of discrete S shaped particles](/pdf/Katheryn_Wang_Final_Presentation.pdf).
@@ -19,4 +19,4 @@ While a graduate student at MIT, for two years I resided in Cabot House, an unde
 
 ### Tutor, Multicultural Engineering Program, College of Engineering, University of Oklahoma
 
-As an undergraduate scholar in Multicultural Engineering Program, the flagship program at University of Oklahoma's College of Engineering for diversity and inclusion, I tutored & mentored other students in variety of math, physics, and engineering subjects.
+As an undergraduate scholar in Multicultural Engineering Program, the flagship program at University of Oklahoma's College of Engineering for diversity and inclusion, I tutored & mentored a number of students in variety of math, physics, and engineering subjects.
