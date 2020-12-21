@@ -1,7 +1,7 @@
 
 ## Mentorship
 
-<img src="images/SURF_2019.jpg?raw=true"/
+<img src="images/SURF_2019.jpeg?raw=true"/
 
 ### Mentor, The Summer Undergraduate Research Fellowships (SURF) , Caltech
 
