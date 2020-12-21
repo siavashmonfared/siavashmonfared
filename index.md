@@ -11,5 +11,6 @@ These findings have significance for both applied fields, such as pore size char
 ## [Research](/research_page)
 <!--- [Mechanics & poromechanics of highly heterogeneous solids](http://example.com/)!-->
 ## [Publications](/publication_page)
+## [Mentorship & Outreach](/mentorship_page)
 ## [Education](/education_page)
 
