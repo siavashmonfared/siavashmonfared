@@ -8,10 +8,10 @@
 I mentored five students during Caltech's flagship undergraduate research program. Together, we explored the physics of entangled non-convex granular particles.
 
 - Jade Leong (University of Massachusetts Lowell) - [Mechanical behavior of entangled, non-convex granular particles: experimental analysis of the angle of repose](/pdf/Jade_Leong_SURF_Final_Presentation.pdf).
-- Katheryn Wang (Harvey Mudd College) - Uniaxial compression of discrete S shaped particles.
-- Sydney Richardson (California Institute of Technology) - Tensile behavior of entangled non-convex granular particles.
-- Animesh Rastogi (Indian Institute of Technology Gandhinagar) - Pluviation simulation and angle of repose of entangled granular materials.
-- Omkar Devidas Kadam (Indian Institute of Technology Gandhinagar) - Exploring the properties of free standing column built out of designed granular particles using level-set discrete element method.
+- Katheryn Wang (Harvey Mudd College) - [Uniaxial compression of discrete S shaped particles](/pdf/Katheryn_Wang_Final_Presentation.pdf).
+- Sydney Richardson (California Institute of Technology) - [Tensile behavior of entangled non-convex granular particles](/pdf/Sydney_Richardson_Final_Presentation.pdf).
+- Animesh Rastogi (Indian Institute of Technology Gandhinagar) - [Pluviation simulation and angle of repose of entangled granular materials](/pdf/Animesh_Final_Presentation.pdf).
+- Omkar Devidas Kadam (Indian Institute of Technology Gandhinagar) - [Exploring the properties of free standing column built out of designed granular particles using level-set discrete element method](/pdf/SURF_presentation_Omkar.pdf).
 
 ### Resident Tutor, Cabot Undergraduate House, Harvard University 
 
