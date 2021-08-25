@@ -4,6 +4,8 @@ This paper advances understanding on confined fluid behavior in (dis)ordered gra
 These findings have significance for both applied fields, such as pore size characterization and carbon capture, to theoretical fields, including glass physics, wet granular physics and physics of confined fluids.
 
 <img src="images/xsecDen_0729.png?raw=true"/>
+<iframe width="560" height="315" src="/movies/configuration.mp4" frameborder="0" allowfullscreen></iframe>
+
 
 ### Reference: 
 - S. Monfared, T. Zhou, J.E., Andrade, K. Ioannidou, F. Radjai, F.-J. Ulm, R. J.-M. Pellenq, "Effect of confinement on capillary phase transition in granular aggregates", Physical Review Letters, 125, 255501, 2020. [[link]](https://dspace.mit.edu/handle/1721.1/97797)[[pdf]](https://arxiv.org/pdf/2008.04201.pdf).
