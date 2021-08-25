@@ -6,7 +6,7 @@ The results contribute to the increasing realization of the importance of the me
 <iframe width="560" height="315" src="/movies/configuration.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### Reference: 
-- S. Monfared, T. Zhou, J.E., Andrade, K. Ioannidou, F. Radjai, F.-J. Ulm, R. J.-M. Pellenq, "Effect of confinement on capillary phase transition in granular aggregates", Physical Review Letters, 125, 255501, 2020. [[link]](https://dspace.mit.edu/handle/1721.1/97797)[[pdf]](https://arxiv.org/pdf/2008.04201.pdf).
+- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanics of live cell elimination",  	arXiv:2108.07657, [[link]](https://arxiv.org/abs/2108.07657)[[pdf]](https://arxiv.org/pdf/2108.07657.pdf).
 
 ## [Research](/research_page)
 <!--- [Mechanics & poromechanics of highly heterogeneous solids](http://example.com/)!-->
