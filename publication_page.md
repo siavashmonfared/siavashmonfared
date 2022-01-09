@@ -1,6 +1,11 @@
 ## Publications
 
 ### Journal Publications (+pre-prints):
+
+- R. Burqua de Macedo, S. Monfared, K. Karapiperis, J.E., Andrade, "What is shape? characterizing particle morphology with genetic algorithms and deep generative models", 2021, under review.
+
+- J.E., Andrade, Z. Gu, S. Monfared, K.A. Mac Donald, G. Ravichandran, "Measuring Terzaghi's effective stress by decoding force tranmission in fluid-saturated granular media", 2021, under review.
+- 
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanics of live cell elimination",  	arXiv:2108.07657, 2021. [[link]](https://arxiv.org/abs/2108.07657)[[pdf]](https://arxiv.org/pdf/2108.07657.pdf).
 
 - S. Monfared, T. Zhou, J.E., Andrade, K. Ioannidou, F. Radjai, F.-J. Ulm, R. J.-M. Pellenq, "Effect of confinement on capillary phase transition in granular aggregates", Physical Review Letters, 125, 255501, 2020. [[link]](https://dspace.mit.edu/handle/1721.1/97797)[[pdf]](https://arxiv.org/pdf/2008.04201.pdf).
