@@ -12,7 +12,7 @@ As a postdoctoral scholar, I have and continue to mentor students participating 
 - Sydney Richardson (California Institute of Technology) - [Tensile behavior of entangled non-convex granular particles](/pdf/Sydney_Richardson_Final_Presentation.pdf).
 - Animesh Rastogi (Indian Institute of Technology Gandhinagar) - [Pluviation simulation and angle of repose of entangled granular materials](/pdf/Animesh_Final_Presentation.pdf).
 - Omkar Devidas Kadam (Indian Institute of Technology Gandhinagar) - [Exploring the properties of free standing column built out of designed granular particles using level-set discrete element method](/pdf/SURF_presentation_Omkar.pdf).
-- Eleni Blatsouka (National Technical University of Athens) - [Stability of granular structures of non-convex particles under vibration](/pdf/SURF_presentation_Omkar.pdf).
+- Eleni Blatsouka (National Technical University of Athens) - [Stability of granular structures of non-convex particles under vibration](/pdf/Stability of granular structures_Eleni.docx).
 - Graciela Lopez (University of Costa Rica) - [Influence of slenderness on the bearing capacity of a confined granular column](https://youtu.be/D0MzYhnmk9o).
 - Utkarsh Gupta (Indian Institute of Technology Delhi) - [Granular Material In-Fill Inside a Confining Annulus](https://youtu.be/bWNyhWF_l0o).
 
