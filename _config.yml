@@ -15,7 +15,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://cosymo.sites.caltech.edu/">Caltech page</a> 
   
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: sparanoid/almace-scaffolding
 google_analytics: UA-185942797-1 # your Google Analytics tracking ID here and
   
 
