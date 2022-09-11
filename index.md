@@ -10,7 +10,7 @@ The results contribute to the increasing realization of the importance of the me
 
 ## [Research](/research_page)
 <!--- [Mechanics & poromechanics of highly heterogeneous solids](http://example.com/)!-->
-## [Publications](/publication_page)
+## [updated Publications](/publication_page)
 ## [Mentorship](/mentorship_page)
 ## [Education](/education_page)
 
