@@ -2,9 +2,9 @@ title: Siavash Monfared # your name (or website title) here
 logo: "/images/FullSizeRender.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Siavash Khosh Sokhan Monfared
-  <br>
-  Postdoctoral Scholar, Niels Bohr Institute, University of Copenhagen
   <br><br>
+  Postdoctoral Scholar, Niels Bohr Institute, University of Copenhagen
+  <br>
   Visiting associate, Physics Department, Harvard University
   <br><br>
   <a href = "mailto: monfared@caltech.edu">Contact</a>
@@ -12,8 +12,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://scholar.google.com/citations?user=E9GMpVEAAAAJ&hl=en">Google Scholar page</a> 
   <br>
   <a href="https://github.com/siavashmonfared">GitHub page</a> 
-  <br>
-  <a href="https://cosymo.sites.caltech.edu/">Caltech page</a> 
   
 theme: jekyll-theme-minimal
 #remote_theme: sparanoid/almace-scaffolding
