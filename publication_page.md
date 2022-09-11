@@ -2,9 +2,13 @@
 
 ### Journal Publications (+pre-prints):
 
-- R. Burqua de Macedo, S. Monfared, K. Karapiperis, J.E., Andrade, "What is shape? characterizing particle morphology with genetic algorithms and deep generative models", 2021, under review.
+- R. Burqua de Macedo, S. Monfared, K. Karapiperis, J.E., Andrade, "What is shape?
+Characterizing particle morphology for topology optimization of granular materials", Granular Matter, 2022, accepted.
 
-- J.E., Andrade, Z. Gu, S. Monfared, K.A. Mac Donald, G. Ravichandran, "Measuring Terzaghi's effective stress by decoding force tranmission in fluid-saturated granular media", 2021, under review.
+- K. Karapiperis, S. Monfared, R. Burqua de Macedo, J.E., Andrade, "Stress transmission in entangled granular structures", Granular Matter, 24(91), 1369-1394, 2022. [[link]](https://link.springer.com/article/10.1007/s10035-022-01252-4).
+
+- J.E., Andrade, Z. Gu, S. Monfared, K.A. Mac Donald, G. Ravichandran, "Measuring
+Terzaghi’s effective stress by decoding force transmission in fluid-saturated granular media", Journal of Mechanics and Physics of Solids, 165, 104912, 2022. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0022509622001144?via%3Dihub).
 
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanics of live cell elimination",  	arXiv:2108.07657, 2021. [[link]](https://arxiv.org/abs/2108.07657)[[pdf]](https://arxiv.org/pdf/2108.07657.pdf).
 
