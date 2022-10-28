@@ -1,3 +1,5 @@
+## [Back to home page](/index)
+
 ## Publications
 
 ### Journal Publications (+pre-prints):
