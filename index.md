@@ -1,8 +1,8 @@
 ## [Latest](/latest_page)
 The solid (glass-like) to fluid phase transition in cellular systems is relevant to a range of biological processes including cancer metastasis, wound healing and tissue morphogenesis. However, our fundamental understanding of how cells collectively switch between these two states remains limited. Using two distinct paths to model this transition based on (i) cell-cell adhesion and (ii) active traction, we link this phase transition to the emergent isotropic stress patterns and their percolation in active cell layers. For each path, we map this phase transition onto the 2D site percolation universality class. This study offers a new perspective on the fundamental mechanical mechanisms associated with the criticality of glass to fluid transition in active cell layers.
 
-<img src="images/fig_avg_cell_adh.png?raw=true"/>
-<img src="images/fig_percolated_cell_adh.png?raw=true"/>
+<img src="images/fig_3_cell_adh.png?raw=true"/>
+<img src="images/fig_3_cell_pol.png?raw=true"/>
 
 
 ### Reference: 
