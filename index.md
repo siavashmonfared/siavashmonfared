@@ -3,7 +3,7 @@ Eliminating unwanted or excess cells is a matter of life and death for the cell 
 
 By developing a three-dimensional model and large scale simulations and in an analogy with liquid crystals, a state of matter between a solid and isotropic liquid phase, we show that cells can switch between distinct mechanical pathways – leveraging defects in nematic and hexatic phases – to eliminate unwanted cells (Nematic and hexatic phases are manifestations of two different types of rotational symmetry in liquid crystals). Our findings provide a unique perspective on how through collective self-organization, cells exploit mechanical and physical constraints to switch between different modes of cell elimination.
 
-<img src="images/eLife_fig2_cropped.pdf?raw=true"/>
+<img src="images/eLife_fig2_cropped.pdf"/>
 
 ### Reference: 
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanical basis and topological routes to cell elimination", eLife, 12:e82435,2023.[[link]]([https://arxiv.org/abs/2210.08112](https://elifesciences.org/articles/82435)).
