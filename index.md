@@ -6,7 +6,7 @@ By developing a three-dimensional model and large scale simulations and in an an
 <img src="images/eLife_fig2.png?raw=true"/>
 
 ### Reference: 
-- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanical basis and topological routes to cell elimination", eLife, 12:e82435,2023.[[link]](https://elifesciences.org/articles/82435).
+- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanical basis and topological routes to cell elimination", eLife, 12:e82435,2023 [[link]](https://elifesciences.org/articles/82435).
 
 ## [Research](/research_page)
 <!--- [Mechanics & poromechanics of highly heterogeneous solids](http://example.com/)!-->
