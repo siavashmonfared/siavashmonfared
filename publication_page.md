@@ -4,10 +4,12 @@
 
 ### Journal Publications (+pre-prints):
 
+- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanical basis and topological routes to cell elimination", eLife, 12:e82435, 2023. [[link]](https://elifesciences.org/articles/82435).
+
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Stress percolation criticality of glass to fluid transition in active cell layers",  	arXiv:2210.08112, 2022. [[link]](https://arxiv.org/abs/2210.08112)[[pdf]](https://arxiv.org/abs/2210.08112).
 
 - R. Burqua de Macedo, S. Monfared, K. Karapiperis, J.E., Andrade, "What is shape?
-Characterizing particle morphology for topology optimization of granular materials", Granular Matter, 2022, In press.
+Characterizing particle morphology for topology optimization of granular materials", Granular Matter, 25(2), 2023. [[link]](https://link.springer.com/article/10.1007/s10035-022-01282-y).
 
 - K. Karapiperis, S. Monfared, R. Burqua de Macedo, J.E., Andrade, "Stress transmission in entangled granular structures", Granular Matter, 24(91), 1369-1394, 2022. [[link]](https://link.springer.com/article/10.1007/s10035-022-01252-4).
 
