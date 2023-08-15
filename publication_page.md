@@ -4,7 +4,7 @@
 
 ### Journal Publications (+pre-prints):
 
-- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanical basis and topological routes to cell elimination", eLife, 12:e82435, 2023. [[link]](https://elifesciences.org/articles/82435).
+- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanical basis and topological routes to cell elimination", eLife, 12:e82435, 2023. [[link]](https://elifesciences.org/articles/82435). Press coverage: [Caltech News](https://www.caltech.edu/about/news/condensed-matter-physics-inspires-a-new-model-of-cellular-behavior), [Phys.org](https://phys.org/news/2023-04-condensed-physics-cellular-behavior.html). Please contact me for relevant data and code. 
 
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Stress percolation criticality of glass to fluid transition in active cell layers",  	arXiv:2210.08112, 2022. [[link]](https://arxiv.org/abs/2210.08112)[[pdf]](https://arxiv.org/abs/2210.08112).
 
