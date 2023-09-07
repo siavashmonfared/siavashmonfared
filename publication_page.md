@@ -4,7 +4,7 @@
 
 ### Journal Publications (+pre-prints):
 
-- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanical basis and topological routes to cell elimination", eLife, 12:e82435, 2023. [[link]](https://elifesciences.org/articles/82435). Press coverage: [Caltech News](https://www.caltech.edu/about/news/condensed-matter-physics-inspires-a-new-model-of-cellular-behavior), [Phys.org](https://phys.org/news/2023-04-condensed-physics-cellular-behavior.html). Please contact me for relevant data and code. 
+- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanical basis and topological routes to cell elimination", eLife, 12:e82435, 2023. [[link]](https://elifesciences.org/articles/82435). Press coverage: [Caltech News](https://www.caltech.edu/about/news/condensed-matter-physics-inspires-a-new-model-of-cellular-behavior), [Phys.org](https://phys.org/news/2023-04-condensed-physics-cellular-behavior.html). Please contact me for relevant data. The code is available on my github page.  
 
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Stress percolation criticality of glass to fluid transition in active cell layers",  	arXiv:2210.08112, 2022. [[link]](https://arxiv.org/abs/2210.08112)[[pdf]](https://arxiv.org/abs/2210.08112).
 
@@ -18,7 +18,7 @@ Terzaghi’s effective stress by decoding force transmission in fluid-saturated 
 
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanics of live cell elimination",  	arXiv:2108.07657, 2021. [[link]](https://arxiv.org/abs/2108.07657)[[pdf]](https://arxiv.org/pdf/2108.07657.pdf).
 
-- S. Monfared, T. Zhou, J.E., Andrade, K. Ioannidou, F. Radjai, F.-J. Ulm, R. J.-M. Pellenq, "Effect of confinement on capillary phase transition in granular aggregates", Physical Review Letters, 125, 255501, 2020. [[link]](https://dspace.mit.edu/handle/1721.1/97797)[[pdf]](https://arxiv.org/pdf/2008.04201.pdf).
+- S. Monfared, T. Zhou, J.E., Andrade, K. Ioannidou, F. Radjai, F.-J. Ulm, R. J.-M. Pellenq, "Effect of confinement on capillary phase transition in granular aggregates", Physical Review Letters, 125, 255501, 2020. [[link]](https://doi.org/10.1103/PhysRevLett.125.255501)[[pdf]](https://arxiv.org/pdf/2008.04201.pdf). Please contact me for relevant data. A 2D version of the code is available on my github page. 
 
 - S. Monfared, H. Laubie, F. Radjai, M. Hubler, R. J.-M. Pellenq, F.-J. Ulm, "A methodology to calibrate and to validate effective solid potentials of heterogeneous porous media from computed tomography scans and laboratory-measured nanoindentation data", Acta Geotechnica, 13, 1369, 2018. [[link]](https://link.springer.com/article/10.1007/s11440-018-0687-9)[[pdf]](https://hal.archives-ouvertes.fr/hal-01958690/document).
 
