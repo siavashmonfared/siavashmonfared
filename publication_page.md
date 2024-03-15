@@ -2,8 +2,14 @@
 
 ## Publications
 
-### Journal Publications (+pre-prints):
+### Under Review:
+- L. Balasubramaniam*,S. Monfared*, et al., "Dynamic forces shape the survival fate of eliminated cells", in-revision, Nature Physics, 20204.
 
+- A. Schoenit*,S. Monfared*, L. Anger*, et al., "Force transmission is a master regulator of mechanical cell competition", under review, Nature Materials, 20204.
+
+### Journal Publications (+pre-prints):
+- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Short-range correlation of stress chains near solid-to-liquid transition in active monolayers", Journal of Royal Society Interface, accepted, 2024. 
+  
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanical basis and topological routes to cell elimination", eLife, 12:e82435, 2023. [[link]](https://elifesciences.org/articles/82435). Press coverage: [Caltech News](https://www.caltech.edu/about/news/condensed-matter-physics-inspires-a-new-model-of-cellular-behavior), [Phys.org](https://phys.org/news/2023-04-condensed-physics-cellular-behavior.html). Please contact me for relevant data. The code is available on my github page.  
 
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Stress percolation criticality of glass to fluid transition in active cell layers",  	arXiv:2210.08112, 2022. [[link]](https://arxiv.org/abs/2210.08112)[[pdf]](https://arxiv.org/abs/2210.08112).
