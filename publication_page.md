@@ -3,9 +3,9 @@
 ## Publications
 
 ### Under Review:
-- L. Balasubramaniam*,S. Monfared*, et al., "Dynamic forces shape the survival fate of eliminated cells", in-revision, Nature Physics, 20204.
+- L. Balasubramaniam*,S. Monfared*, et al., "Dynamic forces shape the survival fate of eliminated cells", in-revision, Nature Physics, 2024.
 
-- A. Schoenit*,S. Monfared*, L. Anger*, et al., "Force transmission is a master regulator of mechanical cell competition", under review, Nature Materials, 20204.
+- A. Schoenit*,S. Monfared*, L. Anger*, et al., "Force transmission is a master regulator of mechanical cell competition", under review, Nature Materials, 2024.
 
 ### Journal Publications (+pre-prints):
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Short-range correlation of stress chains near solid-to-liquid transition in active monolayers", Journal of Royal Society Interface, accepted, 2024. 
