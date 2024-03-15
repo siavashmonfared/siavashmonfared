@@ -1,3 +1,8 @@
+## [Research](/research_page)
+<!--- [Mechanics & poromechanics of highly heterogeneous solids](http://example.com/)!-->
+## [Publications](/publication_page)
+## [Mentorship](/mentorship_page)
+<!---## [Education](/education_page)!-->
 ## [Latest](/latest_page)
 Our study is one of the first on spatial correlation and organization of stress chains in dense, squishy active matter. An intriguing outcome of our research is the encoding of mechanical information in the studied stress chains, given that distinct underlying mechanisms for different control parameters manifests in a similar stress scaling near the solid-to-liquid transition. We expect these results to be of wide interest in the physics, mathematics, and biology communities.
 
@@ -50,9 +55,4 @@ These findings have significance for both applied fields, such as pore size char
 <img src="images/xsecDen_0729.png?raw=true"/>
 <img src="images/rpdf_0729.png?raw=true"/>
 
-## [Research](/research_page)
-<!--- [Mechanics & poromechanics of highly heterogeneous solids](http://example.com/)!-->
-## [Publications](/publication_page)
-## [Mentorship](/mentorship_page)
-<!---## [Education](/education_page)!-->
 
