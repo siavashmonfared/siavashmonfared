@@ -4,7 +4,7 @@ Our study is one of the first on spatial correlation and organization of stress 
 <img src="images/stress_chains_GH.png?raw=true"/>
 
 ### Reference: 
-- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanical basis and topological routes to cell elimination", eLife, 12:e82435,2023 [[link]](https://elifesciences.org/articles/82435). 
+- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Short-range correlation of stress chains near solid-to-liquid transition in active monolayers", The Journal of Royal Society Interface, accepted, 2024. [[link]](). 
 
 ## [Research](/research_page)
 <!--- [Mechanics & poromechanics of highly heterogeneous solids](http://example.com/)!-->
