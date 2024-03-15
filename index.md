@@ -1,5 +1,5 @@
 ## [Latest](/latest_page)
-Our study is one of the first on spatial correlation and organization of stress chains in dense, squishy active matter. An intriguing outcome of our research is the encoding of mechanical information in the studied stress chains, given that distinct underlying mechanisms for different control parameters manifests in a similar stress scaling near the solid-to-liquid transition. We expect these results to be of wide interest in the physics, mathematics, and biology communities.\\
+Our study is one of the first on spatial correlation and organization of stress chains in dense, squishy active matter. An intriguing outcome of our research is the encoding of mechanical information in the studied stress chains, given that distinct underlying mechanisms for different control parameters manifests in a similar stress scaling near the solid-to-liquid transition. We expect these results to be of wide interest in the physics, mathematics, and biology communities.
 
 <img src="images/stress_chains_GH.png?raw=true"/>
 
