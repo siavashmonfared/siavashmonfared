@@ -9,7 +9,7 @@ Our study is one of the first on spatial correlation and organization of stress 
 <img src="images/stress_chains_GH.png?raw=true"/>
 
 ### Reference: 
-- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Short-range correlation of stress chains near solid-to-liquid transition in active monolayers", The Journal of Royal Society Interface, accepted, 2024. [[link]]().
+- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Short-range correlation of stress chains near solid-to-liquid transition in active monolayers", The Journal of Royal Society Interface, 21:20240022, 2024. [[link]](https://doi.org/10.1098/rsif.2024.0022).
 
 ### 4/24/2023
 Eliminating unwanted or excess cells is a matter of life and death for the cell layers covering surfaces of our bodies. Nevertheless, since all the existing studies have only focused on effective two dimensional models of the cell layers so far, fundamental questions about the three-dimensional phenomenon of cell extrusion and in particular physical forces involved in the process remain unanswered.
