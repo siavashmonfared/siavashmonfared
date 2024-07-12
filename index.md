@@ -11,6 +11,11 @@ Our study is one of the first on spatial correlation and organization of stress 
 ### Reference: 
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Short-range correlation of stress chains near solid-to-liquid transition in active monolayers", The Journal of Royal Society Interface, 21:20240022, 2024. [[link]](https://doi.org/10.1098/rsif.2024.0022).
 
+### 01/05/2024
+Although the expanding nature of cellular systems is central to their biological functions, the majority of approaches to study this topic are constrained to systems that conserve volume and/or mass and focus on active force generation due to cell motility. This latest development allows us to study active force generation due to proliferation, relaxing conservation of mass/volume. Proliferation in soft, dense living matter necessitates deformation and re-organization that can create a feedback loop (with the source of expansion) crucial to developement and regernation. Altought this entry does not correspond to a new publication, but this is my current focus and I thought the simulation looks cool! hope you enjoy it too.  
+
+<iframe width="560" height="315" src="/movies/proliferate.mp4" frameborder="0" allowfullscreen></iframe>
+
 ### 4/24/2023
 Eliminating unwanted or excess cells is a matter of life and death for the cell layers covering surfaces of our bodies. Nevertheless, since all the existing studies have only focused on effective two dimensional models of the cell layers so far, fundamental questions about the three-dimensional phenomenon of cell extrusion and in particular physical forces involved in the process remain unanswered.
 
