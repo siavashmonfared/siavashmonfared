@@ -8,7 +8,7 @@
 - A. Schoenit (1st co-author),S. Monfared (1st co-author), L. Anger (1st co-author), et al., "Force transmission is a master regulator of mechanical cell competition", under review, Nature Materials, 2024.
 
 ### Journal Publications (+pre-prints):
-- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Short-range correlation of stress chains near solid-to-liquid transition in active monolayers", Journal of Royal Society Interface, accepted, 2024. 
+- S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Short-range correlation of stress chains near solid-to-liquid transition in active monolayers", The Journal of Royal Society Interface, 21:20240022, 2024. [[link]](https://doi.org/10.1098/rsif.2024.0022).
   
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanical basis and topological routes to cell elimination", eLife, 12:e82435, 2023. [[link]](https://elifesciences.org/articles/82435). Press coverage: [Caltech News](https://www.caltech.edu/about/news/condensed-matter-physics-inspires-a-new-model-of-cellular-behavior), [Phys.org](https://phys.org/news/2023-04-condensed-physics-cellular-behavior.html). Please contact me for relevant data. The code is available on my github page.  
 
