@@ -4,6 +4,8 @@
 ## [Mentorship](/mentorship_page)
 <!---## [Education](/education_page)!-->
 ## [Latest](/latest_page)
+
+### 05/08/2024
 Our study is one of the first on spatial correlation and organization of stress chains in dense, squishy active matter. An intriguing outcome of our research is the encoding of mechanical information in the studied stress chains, given that distinct underlying mechanisms for different control parameters manifests in a similar stress scaling near the solid-to-liquid transition. We expect these results to be of wide interest in the physics, mathematics, and biology communities.
 
 <img src="images/stress_chains_GH.png?raw=true"/>
@@ -16,7 +18,7 @@ Although the expanding nature of cellular systems is central to their biological
 
 <iframe width="560" height="315" src="/movies/proliferate.mp4" frameborder="0" allowfullscreen></iframe>
 
-### 4/24/2023
+### 04/24/2023
 Eliminating unwanted or excess cells is a matter of life and death for the cell layers covering surfaces of our bodies. Nevertheless, since all the existing studies have only focused on effective two dimensional models of the cell layers so far, fundamental questions about the three-dimensional phenomenon of cell extrusion and in particular physical forces involved in the process remain unanswered.
 
 By developing a three-dimensional model and large scale simulations and in an analogy with liquid crystals, a state of matter between a solid and isotropic liquid phase, we show that cells can switch between distinct mechanical pathways – leveraging defects in nematic and hexatic phases – to eliminate unwanted cells (nematic and hexatic phases are manifestations of two different types of rotational symmetry in liquid crystals). Our findings provide a unique perspective on how through collective self-organization, cells exploit mechanical and physical constraints to switch between different modes of cell elimination.
