@@ -9,12 +9,10 @@
 This manuscript presents a novel connection between stress transmission capability modulated via reduced cell-cell adhesion and changes in the mode of cell extrusion, i.e. live vs dead. It shows that E-cadherin depletion, commonly observed in various tumors, leads to increased live cell extrusion and a greater proportion of basal extrusion in MDCK cells, cysts, and tumors. In contrast, apoptotic extrusion in wild-type cells corresponds to heightened compressive stress and fluctuations, which occur before caspase activation and apical extrusion. This link is validated through stress measurements and modeled effectively using a multi-phase fields model. Since cell extrusion is essential for maintaining tissue homeostasis and size, understanding the direction of extrusion (apical vs. basal) and its dependency on caspases factors, not yet well-understood, can reveal critical insights into tissue health and invasion. This study highlights how stress, adhesion, and cell stiffness influence both extrusion direction and the balance between live and caspase-dependent extrusion.
 
 ### WT extrusion side view
-<iframe width="560" height="315" src="/movies/wt_side_view.gif" frameborder="0" allowfullscreen></iframe>
-<!--- <img src="images/mixture_pdf.png?raw=true"/>!-->
+<iframe width="560" height="315" src="/movies/wt_side_view.gif" frameborder="0" allowfullscreen style="margin-bottom: 0;"></iframe>
 
 ### Local stress fields comparison
-<img src="images/mixture_pdf.png?raw=true" style="width: 50%; height: 50%;" />
-
+<img src="images/mixture_pdf.png?raw=true" style="width: 50%; height: 50%; margin-top: 0;" />
 
 ### Reference: 
 - L. Balasubramaniam*, S. Monfared*, A. Ardaševa, C. Rosse, A. Schoenit, T. Dang, C. Maric, L. Kocgozlu,
