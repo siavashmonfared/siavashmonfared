@@ -12,7 +12,7 @@ This manuscript presents a novel connection between stress transmission capabili
 <iframe width="560" height="315" src="/movies/ko_side_view.gif" frameborder="0" allowfullscreen></iframe>
 
 ### WT extrusion side view
-<iframe width="560" height="315" src="/movies/wt_side_view.gif" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="150" src="/movies/wt_side_view.gif" frameborder="0" allowfullscreen></iframe>
 
 <img src="images/mixture_pdf.png?raw=true"/>
 
