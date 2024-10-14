@@ -3,11 +3,12 @@
 ## Publications
 
 ### In-Revision:
-- L. Balasubramaniam (1st co-author),S. Monfared (1st co-author), et al., "Dynamic forces shape the survival fate of eliminated cells", in-revision, Nature Physics, 2024.
 
 - A. Schoenit (1st co-author),S. Monfared (1st co-author), L. Anger (1st co-author), et al., "Force transmission is a master regulator of mechanical cell competition", in-revision, Nature Materials, 2024.
 
 ### Journal Publications (+pre-prints):
+- L. Balasubramaniam (1st co-author),S. Monfared (1st co-author), et al., "Dynamic forces shape the survival fate of eliminated cells", Accepted in Nature Physics, 2024.
+  
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Short-range correlation of stress chains near solid-to-liquid transition in active monolayers", The Journal of Royal Society Interface, 21:20240022, 2024. [[link]](https://doi.org/10.1098/rsif.2024.0022).
   
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanical basis and topological routes to cell elimination", eLife, 12:e82435, 2023. [[link]](https://elifesciences.org/articles/82435). Press coverage: [Caltech News](https://www.caltech.edu/about/news/condensed-matter-physics-inspires-a-new-model-of-cellular-behavior), [Phys.org](https://phys.org/news/2023-04-condensed-physics-cellular-behavior.html). Please contact me for relevant data. The code is available on my github page.  
@@ -36,13 +37,15 @@ Terzaghi’s effective stress by decoding force transmission in fluid-saturated 
 
 - S. Monfared, F.-J. Ulm, "A molecular informed poroelastic model for organic-rich, naturally occurring porous geocomposites", Journal of the Mechanics and Physics of Solids, 88, 186, 2016. [[link]](https://www.sciencedirect.com/science/article/pii/S0022509615303355).
 
-### Selected Conference Talks:
+### Selected Invited Talks:
 
-- [Capillary stresses in disordered unsaturated porous materials](http://meetings.aps.org/Meeting/MAR19/Session/V56.4), Monfared et al., APS March Meeting, March 4-8, 2019; Boston, Massachusetts. 
+- Physics of Living Systems Short Talk, Department of Physics, MIT, Cambridge, MA, October 2023. 
 
-- [Mesoscale poroelasticity of heterogeneous media](http://meetings.aps.org/Meeting/MAR16/Session/R36.9), Monfared et al., APS March Meeting, March 14-18, 2016; Baltimore, Maryland. 
+- Crossing the Disciplinary Boundaries of Physics - Bohr 100 Centennial Celebration, Copenhagen, Denmark, August, 2023.
 
-- [Discrete Poroelasticity of Heterogeneous Media](https://ascelibrary.org/doi/abs/10.1061/9780784480779.169), Monfared et al., 6th Biot Conference on Poromechanics - A tribute to Olivier Coussy, July 9-13, 2017; Paris, France. 
+- Getting into Shape - Pusing for Exotic Particulate Media Mechanics, Lorentz Center, Universiteit Leiden, Leiden, Netherlands, June 2023.
+
+- Center Of Mathematical Sciences And Applications Active Matter Seminar Series, Harvard University, Cambridge, USA, November 2022.
 
 
 
