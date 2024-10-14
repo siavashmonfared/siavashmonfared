@@ -45,7 +45,7 @@ Terzaghi’s effective stress by decoding force transmission in fluid-saturated 
 
 - Getting into Shape - Pusing for Exotic Particulate Media Mechanics, Lorentz Center, Universiteit Leiden, Leiden, Netherlands, June 2023.
 
-- Center Of Mathematical Sciences And Applications Active Matter Seminar Series, Harvard University, Cambridge, USA, November 2022.
+- Center Of Mathematical Sciences And Applications Active Matter Seminar Series, Harvard University, Cambridge, MA, November 2022.
 
 
 
