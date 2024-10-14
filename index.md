@@ -10,7 +10,11 @@ This manuscript presents a novel connection between stress transmission capabili
 
 ### WT extrusion side view
 <iframe width="560" height="315" src="/movies/wt_side_view.gif" frameborder="0" allowfullscreen></iframe>
-<img src="images/mixture_pdf.png?raw=true"/>
+<!--- <img src="images/mixture_pdf.png?raw=true"/>!-->
+
+### Local stress fields comparison
+<img src="images/mixture_pdf.png?raw=true" style="width: 50%; height: 50%;" />
+
 
 ### Reference: 
 - L. Balasubramaniam*, S. Monfared*, A. Ardaševa, C. Rosse, A. Schoenit, T. Dang, C. Maric, L. Kocgozlu,
