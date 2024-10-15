@@ -11,7 +11,7 @@ Cell competition maintains tissue health through the elimination of cellular sub
 ### Reference: 
 - A. Schoenit (1st co-author), S. Monfared (1st co-author), L. Anger (1st co-author), C. Rosse, V. Venkatesh, L. Balasubramaniam, E. Marangoni, P. Chavrier, R.-M., Mège, A. Doostmohammadi, B. Ladoux. "Force transmission is a master regulator of mechanical cell competition", In revision in Nature Materials, 2024.
 
-<iframe width="400" height="200" src="/movies/mixture_sim.gif" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="200" src="/movies/mixture_sim.mp4" frameborder="0" allowfullscreen></iframe>
 
 <img src="images/mixing_assays.png?raw=true" style="width: 40%; height: 40%; margin-top: 0; display: block; margin-left: auto; margin-right: auto;" />
 
