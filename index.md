@@ -11,7 +11,7 @@ This manuscript presents a novel connection between stress transmission capabili
 <img src="images/mixture_pdf.png?raw=true" style="width: 50%; height: 50%; margin-top: 0; display: block; margin-left: auto; margin-right: auto;" />
 fluctuations, which occur before caspase activation and apical extrusion. This link is validated through stress measurements and modeled effectively using a multi-phase fields model. Since cell extrusion is essential for maintaining tissue homeostasis and size, understanding the direction of extrusion (apical vs. basal) and its dependency on caspases factors, not yet well-understood, can reveal critical insights into tissue health and invasion. This study highlights how stress, adhesion, and cell stiffness influence both extrusion direction and the balance between live and caspase-dependent extrusion.
 ### WT extrusion side view
-<iframe width="560" height="315" src="/movies/wt_side_view.gif" frameborder="0" allowfullscreen style="margin-bottom: 0;"></iframe>
+<iframe width="560" height="315" src="/movies/ko_side_view.gif" frameborder="0" allowfullscreen style="margin-bottom: 0;"></iframe>
 
 ### Reference: 
 - L. Balasubramaniam*, S. Monfared*, A. Ardaševa, C. Rosse, A. Schoenit, T. Dang, C. Maric, L. Kocgozlu,
