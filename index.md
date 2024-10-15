@@ -11,9 +11,7 @@ Cell competition maintains tissue health through the elimination of cellular sub
 ### Reference: 
 - A. Schoenit (1st co-author), S. Monfared (1st co-author), L. Anger (1st co-author), C. Rosse, V. Venkatesh, L. Balasubramaniam, E. Marangoni, P. Chavrier, R.-M., Mège, A. Doostmohammadi, B. Ladoux. "Force transmission is a master regulator of mechanical cell competition", In revision in Nature Materials, 2024.
 
-<iframe width="560" height="315" src="/movies/mixture_sim.mp4" frameborder="0" allowfullscreen></iframe>
-
-<img src="images/mixing_assays.png?raw=true" style="width: 40%; height: 40%; margin-top: 0; display: block; margin-left: auto; margin-right: auto;" />
+<iframe width="500" height="260" src="/movies/mixture_sim.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### 09/20/2024
 This manuscript presents a novel connection between stress transmission capability modulated via reduced cell-cell adhesion and changes in the mode of cell extrusion, i.e. live vs dead. It shows that weakened E-cadherin expression, commonly observed in various tumors, leads to increased live cell extrusion and a greater proportion of basal extrusion in MDCK cells, cysts, and tumors. In contrast, apoptotic extrusion in wild-type cells corresponds to heightened compressive stress and fluctuations, which occur before caspase activation and apical extrusion. This link is validated through stress measurements and modeled effectively using a multi-phase fields model. Since cell extrusion is essential for maintaining tissue homeostasis and size, understanding the direction of extrusion (apical vs. basal) can reveal critical insights into tissue health and invasion. This study highlights how stress, adhesion, and cell stiffness influence both extrusion direction and the balance between live and apoptotic extrusions.
