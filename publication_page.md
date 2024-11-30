@@ -2,11 +2,9 @@
 
 ## Publications
 
-### In-Revision:
-
-- A. Schoenit (1st co-author),S. Monfared (1st co-author), L. Anger (1st co-author), et al., "Force transmission is a master regulator of mechanical cell competition", in-revision, Nature Materials, 2024.
-
 ### Journal Publications (+pre-prints):
+- A. Schoenit (1st co-author),S. Monfared (1st co-author), L. Anger (1st co-author), et al., "Force transmission is a master regulator of mechanical cell competition", Accepted in Nature Materials, 2024.
+
 - L. Balasubramaniam (1st co-author),S. Monfared (1st co-author), et al., "Dynamic forces shape the survival fate of eliminated cells", Accepted in Nature Physics, 2024.
   
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Short-range correlation of stress chains near solid-to-liquid transition in active monolayers", The Journal of Royal Society Interface, 21:20240022, 2024. [[link]](https://doi.org/10.1098/rsif.2024.0022).
