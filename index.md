@@ -9,7 +9,7 @@
 Cell competition maintains tissue health through the elimination of cellular sub-populations with reduced fitness. Despite the importance of cell competition in various physiological and pathological mechanisms, our understanding of the physical mechanisms arming a sub-population with more fitness remains limited. Particularly elusive is the role of intercellular forces which stems from the absence of tools to simultaneously control intercellular force transmission capabilities and measure the key physical properties that govern cell competition. By combining in-vitro experiments with in-silico modeling, our study challenges the common belief that winning cells always expel others through squeezing. In this study, we show that cells can remain compressed and still emerge as winners by unraveling the functional basis of a novel mechanism due to force transmission capability of the competing cells. The discovery of this physical mechanism has overarching implications in most vital biological processes, including morphogenesis as well as diseases such as acute inflammation and cancer.
 
 ### Reference: 
-- A. Schoenit (1st co-author), S. Monfared (1st co-author), L. Anger (1st co-author), C. Rosse, V. Venkatesh, L. Balasubramaniam, E. Marangoni, P. Chavrier, R.-M., Mège, A. Doostmohammadi, B. Ladoux. "Force transmission is a master regulator of mechanical cell competition", Accepted in Nature Materials, 2024.
+- A. Schoenit (1st co-author), S. Monfared (1st co-author), L. Anger (1st co-author), C. Rosse, V. Venkatesh, L. Balasubramaniam, E. Marangoni, P. Chavrier, R.-M., Mège, A. Doostmohammadi, B. Ladoux. "Force transmission is a master regulator of mechanical cell competition", Accepted in Nature Materials, 2024. [[link]](https://www.biorxiv.org/content/10.1101/2024.12.20.627898v1.abstract)
 
 <iframe width="500" height="260" src="/movies/mixture_sim.mp4" frameborder="0" allowfullscreen></iframe>
 
@@ -20,7 +20,7 @@ This manuscript presents a novel connection between stress transmission capabili
 
 ### Reference: 
 - L. Balasubramaniam (1st co-author), S. Monfared (1st co-author), A. Ardaševa, C. Rosse, A. Schoenit, T. Dang, C. Maric, L. Kocgozlu,
-S. Dubey, E. Marangoni, B.L., Doss, P. Chavrier, R.-M., Mège, A. Doostmohammadi, B. Ladoux, "Dynamic forces shape the survival fate of eliminated cells", Accepted in Nature Physics, 2024.
+S. Dubey, E. Marangoni, B.L., Doss, P. Chavrier, R.-M., Mège, A. Doostmohammadi, B. Ladoux, "Dynamic forces shape the survival fate of eliminated cells", Nature Physics, 2025. [[link]](https://rdcu.be/d5AD6)
 
 ### 05/08/2024
 Our study is one of the first on spatial correlation and organization of stress chains in dense, squishy active matter. An intriguing outcome of our research is the encoding of mechanical information in the studied stress chains, given that distinct underlying mechanisms for different control parameters manifests in a similar stress scaling near the solid-to-liquid transition. We expect these results to be of wide interest in the physics, mathematics, and biology communities.
