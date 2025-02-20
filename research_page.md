@@ -20,6 +20,8 @@ The behavior of bulk fluid contrast significantly with that of a confined fluid.
 Granular matter are one of the most ubiquitous materials on earth. The interplay of a particle shape; packing characteristics and its physical behavior is not fully deciphered. I am interested in understanding how topology of a particle can give rise to very interesting collective behavior not typically associated with classical - convex shaped - granular matter.  
 
 <iframe width="560" height="315" src="/movies/staple_shaped.gif" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/movies/sshaped.gif" frameborder="0" allowfullscreen></iframe>
+
 <img src="images/entangled.png" width="560" height="315">
 
 ### Mechanics highly heterogeneous solids
