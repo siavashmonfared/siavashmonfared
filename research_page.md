@@ -1,6 +1,7 @@
 ## [Back to home page](/index)
 
 ## Research
+<img src="images/research_program?raw=true"/>
 
 ### Active matter & Biological Physics
 
@@ -12,13 +13,13 @@ Understanding how multi-cellular life emerges from a single cell is yet to be fu
 
 The behavior of bulk fluid contrast significantly with that of a confined fluid. This is a consequence of pore morphology, topology and the strength of fluid-solid interactions that alter the energy landscape of a fluid. The effect of confinement on fluid behavior is of interest for a range of scientific and engineering applications. I develop high performance computational models to study this phenomane accounting for various sources of structural and/or materials disorder. 
 
-<iframe width="560" height="315" src="/movies/xsec.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/movies/CGDFT_2D.gif" frameborder="0" allowfullscreen></iframe>
 
 ### Granular physics
 
 Granular matter are one of the most ubiquitous materials on earth. The interplay of a particle shape; packing characteristics and its physical behavior is not fully deciphered. I am interested in understanding how topology of a particle can give rise to very interesting collective behavior not typically associated with classical - convex shaped - granular matter.  
 
-<iframe width="560" height="315" src="/movies/Ng500s.mov" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/movies/staple_shaped.gif" frameborder="0" allowfullscreen></iframe>
 <img src="images/entangled.png" width="560" height="315">
 
 ### Mechanics highly heterogeneous solids
