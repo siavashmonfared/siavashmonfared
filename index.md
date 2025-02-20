@@ -6,6 +6,8 @@
 <!---## [Education](/education_page)!-->
 <!---## ## [Latest](/latest_page)!-->
 
+---
+
 ### 11/20/2024
 Cell competition maintains tissue health through the elimination of cellular sub-populations with reduced fitness. Despite the importance of cell competition in various physiological and pathological mechanisms, our understanding of the physical mechanisms arming a sub-population with more fitness remains limited. Particularly elusive is the role of intercellular forces which stems from the absence of tools to simultaneously control intercellular force transmission capabilities and measure the key physical properties that govern cell competition. By combining in-vitro experiments with in-silico modeling, our study challenges the common belief that winning cells always expel others through squeezing. In this study, we show that cells can remain compressed and still emerge as winners by unraveling the functional basis of a novel mechanism due to force transmission capability of the competing cells. The discovery of this physical mechanism has overarching implications in most vital biological processes, including morphogenesis as well as diseases such as acute inflammation and cancer.
 
