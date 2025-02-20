@@ -12,7 +12,7 @@ The mechanical interactions between a cell and its environment play a dominant r
 
 The behavior of bulk fluid contrast significantly with that of a confined fluid. This is a consequence of pore morphology, topology and the strength of fluid-solid interactions that alter the energy landscape of a fluid. The effect of confinement on fluid behavior is of interest for a range of scientific and engineering applications. In the case of disordered porous materials, the effect of underlying effective random fields induced by structural and/or chemical disorder on degree of confinement, nature of phase transition, and critical exponents are still unclear.
 
-<iframe width="800" height="450" src="/movies/xsec_capillary_PT.gif" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/movies/xsec.mov" frameborder="0" allowfullscreen></iframe>
 
 ### Granular physics
 
