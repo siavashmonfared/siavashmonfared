@@ -64,7 +64,6 @@ Our work is the first to map and reveal the importance of 3D out-of-plane stress
 The results contribute to the increasing realization of the importance of the mechanical properties of cells in controlling their behavior, and we hope that they will be of interest to a broad range of mathematicians, biophysicists and cell biologists interested in connecting the physics of cellular self-organization to the dynamics of biological systems.
 
 <iframe width="560" height="315" src="/movies/3d_mpf_simulation.gif" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="/movies/sxz_stress.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### Reference: 
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Mechanics of live cell elimination",  	arXiv:2108.07657, [[link]](https://arxiv.org/abs/2108.07657)[[pdf]](https://arxiv.org/pdf/2108.07657.pdf).
