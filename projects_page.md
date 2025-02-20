@@ -13,19 +13,17 @@
 <iframe width="560" height="315" src="/movies/3d_mpf_simulation.gif" frameborder="0" allowfullscreen></iframe>
 
 ### CG-LGDFT-3D-MPI & CG-LGDFT-2D-MPI
-This an implementation of coarse-grained lattice gas density functional thoery in 2D on a simple cubic lattice.
+A 3D coarse-grained lattice-gas density functional model using finite-difference techniques on a simple cubic lattice. Implemented parallel processing with Message Passing Interface (MPI) for domain decomposition, allowing for distributed computing across multiple nodes. This software framework was applied to explore the thermodynamics and statistical mechanics of confined fluids, providing scalable solutions for large-scale simulations.
 
-[[CG-LGDFT-2D-MPI]](https://github.com/siavashmonfared/CGDFT_2D)
+[CG-LGDFT-2D-MPI](https://github.com/siavashmonfared/CGDFT_2D)
 
 <iframe width="560" height="315" src="/movies/CGDFT_2D.gif" frameborder="0" allowfullscreen></iframe>
 
 ### LEM-3D-MPI
-
-description
+A 3D discrete computational solid mechanics framework using finite differences and Message Passing Interface (MPI) for parallel processing and domain decomposition. The software is specifically designed to analyze highly heterogeneous solids by incorporating multiple interacting random fields, making it suitable for studying complex mechanical behaviors in materials with non-uniform properties.
 
 ### LSDEM-3D
-
-
+to be added ...
 
 
 
