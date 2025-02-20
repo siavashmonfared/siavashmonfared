@@ -12,10 +12,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://scholar.google.com/citations?user=E9GMpVEAAAAJ&hl=en">Google Scholar page</a> 
   <br>
   <a href="https://github.com/siavashmonfared">GitHub page</a> 
-  
+
+theme: jekyll-theme-minimal 
 #theme: jekyll-theme-slate
 #remote_theme: sparanoid/almace-scaffolding
-remote_theme: pages-themes/minimal-mistakes@4.25.0
+#remote_theme: pages-themes/minimal-mistakes@4.25.0
 google_analytics: G-B8PX8YWL3J # your Google Analytics tracking ID here and
   
 
