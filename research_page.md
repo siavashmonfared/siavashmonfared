@@ -1,7 +1,7 @@
 ## [Back to home page](/index)
 
 ## Research
-<img src="images/research_program.png" width="560" height="315">
+<img src="images/research_program.png" width="700" height="400">
 
 ### Active matter & Biological Physics
 
@@ -25,7 +25,7 @@ Granular matter are one of the most ubiquitous materials on earth. The interplay
 
 Continuum based modeling approaches have limited capabilities to capture the spatial distribution of solid constituents and their mechanical interactions. Primarily built on Eshelby's inclusion problem and mean-field based homogenization methods, continuum micromechanics approaches reduce the spatial distribution of the solid constituents and their mechanical interactions to effective fields. Furthermore, perturbation based solutions in statistical continuum mechanics are limited to small fluctuations in mechanical properties and thus unable to capture heavy-tailed distributions characteristics of highly heterogeneous media. For these materials with the length scale of observation often on par with that of the inclusions, defining a representative elementary volume that satisfies scale separability - a requirement for any continuum approach - becomes an impractical task. In this vein, we developed a discrete theoretical and computational framework that addresses the limitations encountered in the continuum approach.
 
-<img src="images/mechanics.png?raw=true"/>
+<img src="images/mechanics.png" width="500" height="300">
 
 <!--Poromechanics is dedicated to the modeling and prediction of how porous materials deform in response to various external loadings. These loadings range from fluid–solid interactions by a variety of pressures at the liquid–solid interface to complex physical chemistry phenomena at the pore scale that produce a mechanical deformation (including fracture) of the solid. The classical backbone of poromechanics is based on continuum theories, ever since Maurice A. Biot defined the kinematics of deformation of the skeleton within the classical continuum mechanics framework as the refer- ence for the description of the flow of the liquid phase through the pore space. Although continuum poromechanics theory has entered and transformed many engineering fields ranging from civil and environmental engineering and geophysics applications to biomechanics and the food industry, the intrinsic limitations of the theory relate to the very foundations of the continuum model, including scale separability and its impact on the relevance of the differential operators defining the momentum balance and displacement–strain operators. To address these limitations, we proposed a discrete re-formulation of the theory that can be applied to porous materials with a highly heterogeneous solid while accounting for anisotropy.!-->
 
