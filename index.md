@@ -1,4 +1,5 @@
 ## [Research](/research_page)
+## [Projects](/projects_page)
 <!--- [Mechanics & poromechanics of highly heterogeneous solids](http://example.com/)!-->
 ## [Publications](/publication_page)
 ## [Mentorship](/mentorship_page)
