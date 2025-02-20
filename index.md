@@ -12,7 +12,7 @@ Cell competition maintains tissue health through the elimination of cellular sub
 ### Reference: 
 - A. Schoenit (1st co-author), S. Monfared (1st co-author), L. Anger (1st co-author), C. Rosse, V. Venkatesh, L. Balasubramaniam, E. Marangoni, P. Chavrier, R.-M., Mège, A. Doostmohammadi, B. Ladoux. "Force transmission is a master regulator of mechanical cell competition", Accepted in Nature Materials, 2025. [[link]](https://www.biorxiv.org/content/10.1101/2024.12.20.627898v1.abstract)
 
-<iframe width="500" height="260" src="/movies/mixture_sim.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="260" src="/movies/mixture_sim.gif" frameborder="0" allowfullscreen></iframe>
 
 ### 09/20/2024
 This manuscript presents a novel connection between stress transmission capability modulated via reduced cell-cell adhesion and changes in the mode of cell extrusion, i.e. live vs dead. It shows that weakened E-cadherin expression, commonly observed in various tumors, leads to increased live cell extrusion and a greater proportion of basal extrusion in MDCK cells, cysts, and tumors. In contrast, apoptotic extrusion in wild-type cells corresponds to heightened compressive stress and fluctuations, which occur before caspase activation and apical extrusion. This link is validated through stress measurements and modeled effectively using a multi-phase fields model. Since cell extrusion is essential for maintaining tissue homeostasis and size, understanding the direction of extrusion (apical vs. basal) can reveal critical insights into tissue health and invasion. This study highlights how stress, adhesion, and cell stiffness influence both extrusion direction and the balance between live and apoptotic extrusions.
@@ -26,7 +26,7 @@ S. Dubey, E. Marangoni, B.L., Doss, P. Chavrier, R.-M., Mège, A. Doostmohammadi
 ### 05/08/2024
 Our study is one of the first on spatial correlation and organization of stress chains in dense, squishy active matter. An intriguing outcome of our research is the encoding of mechanical information in the studied stress chains, given that distinct underlying mechanisms for different control parameters manifests in a similar stress scaling near the solid-to-liquid transition. We expect these results to be of wide interest in the physics, mathematics, and biology communities.
 
-<img src="images/stress_chains_GH.png?raw=true"/>
+<iframe width="500" height="260" src="/movies/stress_chains.gif" frameborder="0" allowfullscreen></iframe>
 
 ### Reference: 
 - S. Monfared, G. Ravichandran, J.E., Andrade, A. Doostmohammadi, "Short-range correlation of stress chains near solid-to-liquid transition in active monolayers", The Journal of Royal Society Interface, 21:20240022, 2024. [[link]](https://doi.org/10.1098/rsif.2024.0022).
@@ -34,7 +34,7 @@ Our study is one of the first on spatial correlation and organization of stress 
 ### 01/05/2024
 Although the expanding nature of cellular systems is central to their biological functions, the majority of approaches to study this topic are constrained to systems that conserve volume and/or mass and focus on active force generation due to cell motility. This latest development allows us to study active force generation due to proliferation, relaxing conservation of mass/volume. Proliferation in soft, dense living matter necessitates deformation and re-organization that can create a feedback loop (with the source of expansion) crucial to developement and regernation. Altought this entry does not correspond to a new publication, but this is my current focus and I thought the simulation looks cool! hope you enjoy it too.  
 
-<iframe width="560" height="315" src="/movies/proliferate.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/movies/proliferate.gif" frameborder="0" allowfullscreen></iframe>
 
 ### 04/24/2023
 Eliminating unwanted or excess cells is a matter of life and death for the cell layers covering surfaces of our bodies. Nevertheless, since all the existing studies have only focused on effective two dimensional models of the cell layers so far, fundamental questions about the three-dimensional phenomenon of cell extrusion and in particular physical forces involved in the process remain unanswered.
@@ -63,7 +63,7 @@ Our work is the first to map and reveal the importance of 3D out-of-plane stress
 
 The results contribute to the increasing realization of the importance of the mechanical properties of cells in controlling their behavior, and we hope that they will be of interest to a broad range of mathematicians, biophysicists and cell biologists interested in connecting the physics of cellular self-organization to the dynamics of biological systems.
 
-<iframe width="560" height="315" src="/movies/configuration.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/movies/3d_mpf_simulation.gif" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="/movies/sxz_stress.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### Reference: 
