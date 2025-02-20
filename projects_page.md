@@ -13,14 +13,14 @@ This an implementation of coarse-grained lattice gas density functional thoery i
 
 [[CG-LGDFT-2D-MPI]](https://github.com/siavashmonfared/CGDFT_2D)
 
-<iframe width="560" height="315" src="/movies/xsec.mov" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/movies/CGDFT_2D.gif" frameborder="0" allowfullscreen></iframe>
 
 ### LEM-3D-MPI
 
 description
 
-<iframe width="560" height="315" src="/movies/Ng500s.mov" frameborder="0" allowfullscreen></iframe>
-<img src="images/entangled.png" width="560" height="315">
+### LSDEM-3D
+
 
 
 
