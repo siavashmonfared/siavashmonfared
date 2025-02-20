@@ -2,11 +2,11 @@
 
 ## Research
 
-### Cell & cellular bio-physics
+### Active matter \& Biological Physics
 
 The mechanical interactions between a cell and its environment play a dominant role in many biological processes including gene expression and morphogenesis. Furthermore, cellular interactions and collective cell migration are not only critical to tissue regeneration but also key to cancer metastasis and tumor invasion. Although recent conceptual, theoretical and computational advances have provided access to mechanical fields, e.g. forces and displacements, in two-dimensions, the three dimensional fields remain inaccessible
 
-<iframe width="560" height="315" src="/movies/tissue_confluency.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/movies/3d_mpf_simulation.gif" frameborder="0" allowfullscreen></iframe>
 
 ### Physics of confined fluids & capillary phase transition
 
@@ -14,7 +14,7 @@ The behavior of bulk fluid contrast significantly with that of a confined fluid.
 
 <iframe width="560" height="315" src="/movies/xsec.mp4" frameborder="0" allowfullscreen></iframe>
 
-### Granular physics: Non-convex particle interactions 
+### Granular physics
 
 Considering the large carbon footprint of cement production as building materials, jammed granular structures made from entangled non-convex particles can inspire a new class of building materials. While recent studies have demonstrated the ability of such structures to carry tensile forces, the interplay of particle topology, interlocking capability and mechanical behavior remains to be fully unraveled.
 
@@ -22,7 +22,7 @@ Considering the large carbon footprint of cement production as building material
 <img src="images/entangled.png" width="560" height="315">
 <!--Despite well over 200 years since the pioneering work of Young and Laplace, a unified theoretical framework to model capillary pressure evolution in disordered porous media has yet to emerge. Part of the challenge for investigating the behavior of wet granular materials lies in the complex texturing of liquid in a disordered porous structure. This includes the formation, growth and coalescence of liquid clusters in granular systems. For the case of unsaturated poromechanics, any rigorous approach requires bringing together a description for solid(s) that can account for heterogeneity and anisotropy as well as a fluid description that honors the effects of confinement, temperature and the strength of fluid-solid interactions while providing access to the capillary pressure field inside the pore domain.!-->
 
-### Mechanics & poromechanics of highly heterogeneous solids
+### Mechanics highly heterogeneous solids
 
 Continuum based modeling approaches have limited capabilities to capture the spatial distribution of solid constituents and their mechanical interactions. Primarily built on Eshelby's inclusion problem and mean-field based homogenization methods, continuum micromechanics approaches reduce the spatial distribution of the solid constituents and their mechanical interactions to effective fields. Furthermore, perturbation based solutions in statistical continuum mechanics are limited to small fluctuations in mechanical properties and thus unable to capture heavy-tailed distributions characteristics of highly heterogeneous media. For these materials with the length scale of observation often on par with that of the inclusions, defining a representative elementary volume that satisfies scale separability - a requirement for any continuum approach - becomes an impractical task. In this vein, we developed a discrete theoretical and computational framework that addresses the limitations encountered in the continuum approach.
 
