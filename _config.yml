@@ -13,8 +13,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://github.com/siavashmonfared">GitHub page</a> 
   
-theme: jekyll-theme-minimal
-#remote_theme: sparanoid/almace-scaffolding
+# theme: jekyll-theme-minimal
+remote_theme: sparanoid/almace-scaffolding
 google_analytics: G-B8PX8YWL3J # your Google Analytics tracking ID here and
   
 
