@@ -1,10 +1,12 @@
 ## [Back to home page](/index)
-
+---
 ## Projects
 
 ### CELADRO-3D & CELADRO-3D-CUDA
 
-description
+3D multiphase field model based on finite difference methods with CUDA programming for GPU acceleration. This software package can efficiently simulate the collective dynamics of active, soft matter and biological cells, utilizing high-performance computing (HPC) for scalable and computationally intensive simulations.
+[##CELADRO-3D](https://github.com/siavashmonfared/celadro_three_dimensional)
+[##CELADRO-3D-CUDA](https://github.com/siavashmonfared/CELADRO-3D-CUDA)
 
 <iframe width="560" height="315" src="/movies/3d_mpf_simulation.gif" frameborder="0" allowfullscreen></iframe>
 
