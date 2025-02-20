@@ -1,7 +1,7 @@
 ## [Back to home page](/index)
 
 ## Research
-<img src="images/research_program.png" width="780" height="400">
+<img src="images/research_program.png" width="600" height="300">
 
 ### Active matter & Biological Physics
 
