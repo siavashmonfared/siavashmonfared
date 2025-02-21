@@ -7,11 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   previously: Harvard University, California Institute of Technology, Massachusetts Institute of Technology and University of Oklahoma
   <br><br>
-  <a href = "mailto: monfared@alum.mit.edu">Contact</a>
+  <a href = "mailto: monfared@alum.mit.edu">Email</a>
   <br>
-  <a href="https://scholar.google.com/citations?user=E9GMpVEAAAAJ&hl=en">Google Scholar page</a> 
+  <a href="https://scholar.google.com/citations?user=E9GMpVEAAAAJ&hl=en">Google Scholar</a> 
   <br>
-  <a href="https://github.com/siavashmonfared">GitHub page</a> 
+  <a href="https://github.com/siavashmonfared">GitHub</a> 
 
 theme: jekyll-theme-minimal 
 #theme: jekyll-theme-slate
