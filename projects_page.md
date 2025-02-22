@@ -22,6 +22,6 @@ A 3D coarse-grained lattice-gas density functional model using finite-difference
 ### LEM-3D-MPI
 A 3D discrete computational solid mechanics framework using finite differences and Message Passing Interface (MPI) for parallel processing and domain decomposition. The software is specifically designed to analyze highly heterogeneous solids by incorporating multiple interacting random fields, making it suitable for studying complex mechanical behaviors in materials with non-uniform properties.
 
-<img src="images/LEM.png" width="500" height="320">
+<img src="images/LEM.png" width="500" height="180">
 
 
